@@ -310,6 +310,7 @@ div.mobileonly {
 		visiblity: hidden;
 		opacity: 0;
 		transition: opacity 200ms;
+		width: 100%;
 	}
 
 	#inholder.open {
@@ -319,9 +320,9 @@ div.mobileonly {
 	}
 
 	.navbar-links ul {
-		width: 100%;
+		width: 70%;
 		flex-direction: column;
-		margin-left: 50px;
+		padding-left: 15%;
 		gap: 0;
 	}
 
