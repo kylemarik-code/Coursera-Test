@@ -253,9 +253,6 @@ div.mobileonly {
 }
 
 @media screen and (max-width: 1038px) {
-	.brand h1 {
-		margin-top: 5px;
-	}
 
 	#logo-img {
 		height: 50px;
@@ -356,7 +353,7 @@ div.mobileonly {
 
 @media screen and (max-width: 442px) {
 	.brand h1 {
-		font-size: 18px;
+		font-size: 24px;
 	}
 	#landingphoto {
 		height: 220px;
