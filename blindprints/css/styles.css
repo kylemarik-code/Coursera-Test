@@ -295,7 +295,8 @@ div.mobileonly {
 		height: 0;
 		background: no-repeat url("../images/filmstrip.jpg");
 		background-size: cover;
-		background-position: 0% 42%;
+		border-top: 3px solid black;
+		border-bottom: 3px solid black;
 		transition: height 1s;
 	}
 
