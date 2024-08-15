@@ -189,7 +189,7 @@ div.mobileonly {
 	background-size: cover;
 	height: 250px;
 	position: relative;
-	color: white;
+	color: var(--our-white);
 }
 
 .tile div {
